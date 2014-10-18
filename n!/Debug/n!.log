@@ -1,0 +1,2 @@
+﻿  n!.cpp
+c:\users\ilya\documents\visual studio 2012\projects\n!\n!\n!.cpp(80): error C4700: использована неинициализированная локальная переменная "multiplication"
